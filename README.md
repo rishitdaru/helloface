@@ -8,11 +8,7 @@
 
 > A fully local, privacy-first face recognition application with **zero external APIs**, **no API keys**, and **no paid services**. Built with MediaPipe, InsightFace, FAISS, FastAPI, and React.
 
-![HelloFace Demo](https://img.shields.io/badge/Status-Production%20Ready-success)
-
-<div align="center">
-  <video src="demo/Helloface%20demo.mov" width="100%" controls autoplay loop muted></video>
-</div>
+https://github.com/user-attachments/assets/cecda7ce-e341-4d9f-a1b4-ccd43775b635
 
 ---
 
